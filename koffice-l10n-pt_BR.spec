@@ -1,5 +1,5 @@
 Name: koffice-l10n-pt_BR
-Version: 2.3.0
+Version: 2.3.1
 Release: %mkrel 1
 Summary: Language files for KOffice Brazil Portuguese
 Group: System/Internationalization
